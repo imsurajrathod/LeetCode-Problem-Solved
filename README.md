@@ -1,2 +1,2 @@
 # LeetCode-Problem-Solved
-LeetCode Problem Solutions
+In this repository, I will tackle LeetCode problems using a variety of approaches, aiming to achieve the best possible time complexities. Along with the solutions, I will also provide explanations of the thought process and logic behind each approach. This repository serves as a reference for other developers looking to enhance their problem-solving skills and learn new algorithms and data structures. Feel free to contribute by suggesting improvements or submitting your own solutions.
